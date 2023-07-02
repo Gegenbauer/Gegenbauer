@@ -1,4 +1,4 @@
-### Hi Gegenabuer 👋
+### Hi Gegenbauer 👋
 🔭 I’m an Android Developer.
 
 🌱 I’m currently working on a tool that can browse and filter android log files
