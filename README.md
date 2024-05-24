@@ -1,4 +1,4 @@
-### Hi Gegenbauer 👋
+### Hello, I'm Gegenbauer 👋
 🔭 I’m an Android Developer.
 
 |Stats|Langs|
