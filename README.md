@@ -1,5 +1,4 @@
-### Hello, I'm Gegenbauer 👋
-🔭 I’m an Android Developer.
+🔭 An Android Developer.
 
 |Stats|Langs|
 |--|--|
